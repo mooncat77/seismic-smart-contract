@@ -1,0 +1,1 @@
+# Seismic Smart Contract\n\nDeployed on Seismic Devnet:\n- **Contract Address**: 0xE9f5e16A1FE4E192Ea6d91975f77058dbaE346d3\n- **Transaction Hash**: 0x4a16015105750412b5236a1875016570ea038690e442534cffdcc7407494ba07\n- **Unlock Time**: 1743231194 (March 26, 2025, 18:53:14 UTC)
